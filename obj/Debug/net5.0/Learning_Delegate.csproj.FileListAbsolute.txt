@@ -1,0 +1,16 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.AssemblyInfoInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.AssemblyInfo.cs
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.deps.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.runtimeconfig.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.runtimeconfig.dev.json
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\ref\Learning_Delegate.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\bin\Debug\net5.0\Learning_Delegate.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\ref\Learning_Delegate.dll
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\Learning_Adavance_C_Sharp\Learning_Delegate\obj\Debug\net5.0\Learning_Delegate.genruntimeconfig.cache
